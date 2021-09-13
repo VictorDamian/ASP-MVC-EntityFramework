@@ -1,0 +1,27 @@
+﻿@model List<MVCEmployee.Models.EmployeeModel.Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Employee</h2>
+<div class="row">
+    <div class="col-lg-12">
+        <table class="table table-bordered">
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Email</th>
+                <th>Position</th>
+            </tr>
+            @foreach(var oElement in Model)
+            {
+                <tr>
+                    <td>@oElement.name</td>
+                    <td>@oElement.age</td>
+                    <td>@oElement.email</td>
+                    <td>@oElement.position</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
