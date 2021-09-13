@@ -51,6 +51,8 @@ C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\roslyn\vbc.
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\roslyn\VBCSCompiler.exe
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\Antlr3.Runtime.dll
+C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\EntityFramework.dll
+C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\EntityFramework.SqlServer.dll
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\System.Web.
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\System.Web.WebPages.dll
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\System.Web.WebPages.Razor.dll
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\WebGrease.dll
+C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\EntityFramework.xml
+C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\EntityFramework.SqlServer.xml
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\System.Web.Helpers.xml
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\System.Web.Mvc.xml
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\System.Web.Optimization.xml
