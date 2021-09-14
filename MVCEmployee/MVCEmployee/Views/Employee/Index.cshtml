@@ -1,7 +1,13 @@
-﻿@model List<MVCEmployee.Models.EmployeeModel.Employee>
+﻿@model List<MVCEmployee.Models.Entities.Employee>
 @{
     ViewBag.Title = "Index";
 }
+<br />
+<div class="row">
+    <div class="col-md-12">
+        <input type="button" class="btn btn-primary" onclick="document.location.href = '@Url.Content("~/Employee/Add")'" value="New" />
+    </div>
+</div>
 
 <h2>Employee</h2>
 <div class="row">

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace MVCEmployee.Models.EmployeeModel
+namespace MVCEmployee.Models.Entities
 {
     public class Employee
     {

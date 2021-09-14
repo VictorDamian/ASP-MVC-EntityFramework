@@ -1,3 +1,4 @@
+C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\obj\Debug\MVCEmployee.csproj.CoreCompileInputs.cache
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\MVCEmployee.dll.config
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\MVCEmployee.dll
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\MVCEmployee.pdb
@@ -76,7 +77,6 @@ C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\System.Web.
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\Newtonsoft.Json.xml
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\Antlr3.Runtime.pdb
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\obj\Debug\MVCEmployee.csproj.CoreCompileInputs.cache
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\obj\Debug\MVCEmployee.csproj.CopyComplete
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\obj\Debug\MVCEmployee.dll
 C:\Users\stalk\Documents\API\MVCEmployee\MVCEmployee\MVCEmployee\obj\Debug\MVCEmployee.pdb
